@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acambinza
 - 👀 I’m interested in oftware development in general, especially for the web. 
 - 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m Pioneer for Business Intelligence, DevSecOps.
+- 💞️ I’m Pioneer for Business Intelligence, DevOps.
 - My LinkedIn is: https://www.linkedin.com/in/anselmo-cambinza-967a96166/
